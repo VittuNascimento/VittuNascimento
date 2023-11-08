@@ -1,6 +1,6 @@
 - Olá, sou Vittor Nascimento
-- 👀 I’m interested in Moible development
-- 🌱 I’m currently learning Front-End
+- 👀 I’m interested in Mobile development
+- 🌱 I’m currently learning Mobile 
 - 💞️ I’m looking to collaborate on works and projects
 - 📫 How to reach me in Linkedin: https://www.linkedin.com/in/vittor-nascimento-576559230/
 
